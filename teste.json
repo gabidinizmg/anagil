@@ -1,0 +1,13 @@
+[
+  {
+    "image": "https://cdn.jsdelivr.net/gh/gabidinizmg/anagil@main/fotos/test1.png",
+    "slides": [
+      "https://cdn.jsdelivr.net/gh/gabidinizmg/anagil@main/fotos/test2.png"
+    ],
+    "tag": "Editorial"
+  },
+  {
+    "image": "https://cdn.jsdelivr.net/gh/gabidinizmg/anagil@main/fotos/test2.png",
+    "tag": "studio"
+  }
+]
